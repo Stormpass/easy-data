@@ -1,0 +1,23 @@
+{
+  "name": "easy-data",
+  "version": "1.0.0",
+  "description": "当你的JavaScript应用中很多地方依赖同一个数据，这时候你可能需要 easy-data",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stormpass/easy-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stormpass/easy-data/issues"
+  },
+  "homepage": "https://github.com/Stormpass/easy-data#readme"
+}

@@ -1,6 +1,5 @@
-import Bucket from './src/Bucket'
-import Manager from './src/Manager'
+import writable from './src/writable'
 export default {
-  Bucket,
-  Manager
+  writable,
+  // get
 }
