@@ -1,5 +1,5 @@
 import Listeners from './libs/Listeners'
-function Writable() {
+function Writable(value) {
   this._value = value
   this._listeners = new Listeners()
 }
